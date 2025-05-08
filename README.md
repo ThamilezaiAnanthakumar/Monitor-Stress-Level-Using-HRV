@@ -64,7 +64,7 @@ This project aims to predict and monitor stress levels (categorized as *interrup
        ↓
 [Stress Level Output]
        ↓
-[Feedback to User / Monitoring App]
+[Feedback to User ]
 ```
 
 ---
@@ -88,7 +88,7 @@ This project aims to predict and monitor stress levels (categorized as *interrup
    * Neural network infers stress category
 6. **Output & Feedback**
 
-   * Real-time monitoring on screen or mobile app
+   * Real-time monitoring 
 
 ---
 
