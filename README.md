@@ -9,7 +9,7 @@ This project aims to predict and monitor stress levels (categorized as *interrup
 
 ### 💾 **Dataset & Feature Selection**
 
-* **Dataset Used**: [SWELL-KW Stress Dataset](https://www.kaggle.com/datasets)
+* **Dataset Used**: [SWELL-KW Stress Dataset](https://www.kaggle.com/datasets/qiriro/swell-heart-rate-variability-hrv)
 * **Input Features**: 35 HRV features (time, frequency, nonlinear domains)
 * **Feature Selection**: Top 10 features selected via statistical and ML-based methods (e.g., correlation, PCA, or mutual information)
 
