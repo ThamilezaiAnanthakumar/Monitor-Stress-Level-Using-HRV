@@ -29,7 +29,7 @@ This project aims to predict and monitor stress levels (categorized as *interrup
 
 ### 🛠 **Hardware Implementation**
 
-* **Microcontroller**: Raspberry Pi 4B
+* **Microcontroller**: ESP32 s3 Wroom 1 N16
 * **Sensors**:
 
   * **ECG** (single-lead): Captures accurate R-peaks
